@@ -10,7 +10,7 @@ void main() {
 }
 
 class MyApp extends StatelessWidget {
-  //const ({Key? key}) : super(key: key);
+  //const ({Key? key}) : supgit er(key: key);
 
   @override
   Widget build(BuildContext context) {
