@@ -22,8 +22,8 @@ class MyApp extends StatelessWidget {
               margin: EdgeInsets.only(top: 60),
               width: double.infinity,
               decoration: BoxDecoration(
-                gradient: LinearGradient(
-                    colors: [Colors.blue, Colors.red], begin: Top),
+                // gradient: LinearGradient(
+                //     colors: [Colors.blue, Colors.red], begin: Top),
                 image: DecorationImage(
                   image: AssetImage('Images/firstpage.jpg'),
                 ),
@@ -86,7 +86,7 @@ class MyApp extends StatelessWidget {
                             "Login by email",
                             style: TextStyle(
                                 fontFamily: 'SourceSansPro',
-                                fontSize: 20.0,
+                                fontSize: 25.0,
                                 color: Colors.white),
                           ),
                         ),
