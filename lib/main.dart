@@ -86,7 +86,7 @@ class MyApp extends StatelessWidget {
                             "Login by email",
                             style: TextStyle(
                                 fontFamily: 'SourceSansPro',
-                                fontSize: 25.0,
+                                fontSize: 20.0,
                                 color: Colors.white),
                           ),
                         ),
